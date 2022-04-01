@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/stats-base-dists-binomial-cdf",
+  "version": "0.0.0",
+  "description": "Binomial distribution cumulative distribution function (CDF).",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-binomial-cdf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "probability",
+    "prob",
+    "cdf",
+    "cumulative",
+    "distribution function",
+    "successes",
+    "independent trials",
+    "discrete",
+    "bernoulli",
+    "exponential family",
+    "binomial",
+    "binom",
+    "univariate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}

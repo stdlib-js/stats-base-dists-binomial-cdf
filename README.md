@@ -80,13 +80,18 @@ where `I` is the [lower regularized incomplete beta function][incomplete-beta].
 ## Usage
 
 ```javascript
+import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-cdf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-binomial-cdf/tags). For example,
+
+```javascript
 import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-cdf@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-cdf@v0.1.0-deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-cdf@deno/mod.js';
 ```
 
 #### cdf( x, n, p )
@@ -167,7 +172,7 @@ y = mycdf( 1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-cdf@v0.1.0-deno/mod.js';
+import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-cdf@deno/mod.js';
 
 var i;
 var n;

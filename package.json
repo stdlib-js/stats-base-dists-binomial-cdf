@@ -39,9 +39,9 @@
   "dependencies": {
     "@stdlib/constants-float64-pinf": "^0.1.1",
     "@stdlib/math-base-assert-is-nan": "^0.1.1",
-    "@stdlib/math-base-assert-is-nonnegative-integer": "^0.1.0",
+    "@stdlib/math-base-assert-is-nonnegative-integer": "^0.1.1",
     "@stdlib/math-base-special-betainc": "^0.1.0",
-    "@stdlib/math-base-special-floor": "^0.1.0",
+    "@stdlib/math-base-special-floor": "^0.1.1",
     "@stdlib/utils-constant-function": "^0.1.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
   },
@@ -49,8 +49,8 @@
     "@stdlib/bench": "^0.1.0",
     "@stdlib/constants-float64-eps": "^0.1.1",
     "@stdlib/constants-float64-ninf": "^0.1.1",
-    "@stdlib/math-base-special-abs": "^0.1.0",
-    "@stdlib/math-base-special-ceil": "^0.1.0",
+    "@stdlib/math-base-special-abs": "^0.1.1",
+    "@stdlib/math-base-special-ceil": "^0.1.1",
     "@stdlib/math-base-special-round": "^0.1.1",
     "@stdlib/random-base-randu": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",

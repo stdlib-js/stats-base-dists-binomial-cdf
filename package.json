@@ -43,7 +43,8 @@
     "@stdlib/math-base-special-betainc": "^0.2.2",
     "@stdlib/math-base-special-floor": "^0.2.3",
     "@stdlib/utils-constant-function": "^0.2.2",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",

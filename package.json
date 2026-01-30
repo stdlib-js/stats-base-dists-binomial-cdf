@@ -39,14 +39,14 @@
   "dependencies": {
     "@stdlib/constants-float64-pinf": "^0.2.2",
     "@stdlib/math-base-assert-is-nan": "^0.2.2",
-    "@stdlib/math-base-assert-is-nonnegative-integer": "^0.2.1",
+    "@stdlib/math-base-assert-is-nonnegative-integer": "^0.2.2",
     "@stdlib/math-base-special-betainc": "^0.2.2",
     "@stdlib/math-base-special-floor": "^0.2.3",
     "@stdlib/utils-constant-function": "^0.2.2",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-ninf": "^0.2.2",
     "@stdlib/math-base-special-abs": "^0.2.2",

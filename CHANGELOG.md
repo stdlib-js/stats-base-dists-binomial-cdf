@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-07-22)
+
+<section class="features">
+
+### Features
+
+-   [`27626ae`](https://github.com/stdlib-js/stdlib/commit/27626ae743400778da734c069ee493a10d4fca75) - add C implementation for `stats/base/dists/binomial/cdf` [(#4413)](https://github.com/stdlib-js/stdlib/pull/4413)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3465](https://github.com/stdlib-js/stdlib/issues/3465)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`27626ae`](https://github.com/stdlib-js/stdlib/commit/27626ae743400778da734c069ee493a10d4fca75) - **feat:** add C implementation for `stats/base/dists/binomial/cdf` [(#4413)](https://github.com/stdlib-js/stdlib/pull/4413) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`675c404`](https://github.com/stdlib-js/stdlib/commit/675c404341e210a6ff4d37477bbc3f79e927fd8d) - **bench:** refactor to use string interpolation in `stats/base/dists/binomial` [(#10176)](https://github.com/stdlib-js/stdlib/pull/10176) _(by Vishal Gaikwad)_
 -   [`0ca797b`](https://github.com/stdlib-js/stdlib/commit/0ca797b5558b96111256a7446eafe101761b240b) - **bench:** use float literals for `uniform` range arguments _(by Philipp Burckhardt)_
 
@@ -25,9 +48,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 -   Vishal Gaikwad
 
 </section>

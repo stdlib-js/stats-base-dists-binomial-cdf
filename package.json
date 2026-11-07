@@ -52,7 +52,7 @@
   },
   "devDependencies": {
     "@stdlib/assert-is-almost-same-value": "^0.1.1",
-    "@stdlib/console-log-each-map": "^0.1.1",
+    "@stdlib/console-log-each-map": "^0.1.2",
     "@stdlib/constants-float64-ninf": "^0.2.3",
     "@stdlib/math-base-special-ceil": "^0.2.3",
     "@stdlib/random-array-discrete-uniform": "^0.2.2",
